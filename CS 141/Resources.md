@@ -6,4 +6,8 @@
 
 + Tutorial of how autograder works: https://www.youtube.com/watch?v=ZX3G5dFRZKI
 
++ Step-by-step tutorials of running a Gradescope Autograder: https://youtu.be/vKmz6-1SFAI
+
++ Python unittest - unit testing framework: https://docs.python.org/3/library/unittest.html
+
 
